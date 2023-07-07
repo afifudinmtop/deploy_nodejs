@@ -1,8 +1,5 @@
 # deploy_nodejs
 
-================
-Deploy Node.JS
-================
 
 [1] update ubuntu server
 $ sudo apt-get update
